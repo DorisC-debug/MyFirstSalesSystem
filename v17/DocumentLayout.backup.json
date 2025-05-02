@@ -1,0 +1,855 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|c:\\users\\donyc\\desktop\\doris practicando c#\\introduccion a c#\\sistema\\sistema.presentacion\\frmingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6A002-5AB6-4B23-8EC6-2A96212E6994}|Sistema.Entidad\\Sistema.Entidad.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6A002-5AB6-4B23-8EC6-2A96212E6994}|Sistema.Entidad\\Sistema.Entidad.csproj|solutionrelative:Sistema.Entidad\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmmostrararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmmostrararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmmostrararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmmostrararticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmmostrararticulosv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmmostrararticulosv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmmostrararticulosv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmmostrararticulosv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DArticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:Sistema.Datos\\DArticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NArticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:Sistema.Negocios\\NArticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.datos\\dventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.datos\\dingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmRol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmRol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NRol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:Sistema.Negocios\\NRol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DRol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:Sistema.Datos\\DRol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmArticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmArticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6A002-5AB6-4B23-8EC6-2A96212E6994}|Sistema.Entidad\\Sistema.Entidad.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6A002-5AB6-4B23-8EC6-2A96212E6994}|Sistema.Entidad\\Sistema.Entidad.csproj|solutionrelative:Sistema.Entidad\\Categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6A002-5AB6-4B23-8EC6-2A96212E6994}|Sistema.Entidad\\Sistema.Entidad.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6A002-5AB6-4B23-8EC6-2A96212E6994}|Sistema.Entidad\\Sistema.Entidad.csproj|solutionrelative:Sistema.Entidad\\Articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmCategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmCategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:Sistema.Negocios\\NCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:Sistema.Datos\\DCategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.negocios\\nventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:sistema.negocios\\nventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmvistaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmvistaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmvistaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmvistaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmvistaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmvistaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6A002-5AB6-4B23-8EC6-2A96212E6994}|Sistema.Entidad\\Sistema.Entidad.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.entidad\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6A002-5AB6-4B23-8EC6-2A96212E6994}|Sistema.Entidad\\Sistema.Entidad.csproj|solutionrelative:sistema.entidad\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:Sistema.Negocios\\NUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmvistaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmvistaproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6A002-5AB6-4B23-8EC6-2A96212E6994}|Sistema.Entidad\\Sistema.Entidad.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.entidad\\ingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6A002-5AB6-4B23-8EC6-2A96212E6994}|Sistema.Entidad\\Sistema.Entidad.csproj|solutionrelative:sistema.entidad\\ingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.negocios\\ningreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:sistema.negocios\\ningreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:Sistema.Presentacion\\FrmPrincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.negocios\\npersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:sistema.negocios\\npersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81800053-86D4-4A1C-82A1-4584A9DC14C7}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.datos\\dpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED6A002-5AB6-4B23-8EC6-2A96212E6994}|Sistema.Entidad\\Sistema.Entidad.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.entidad\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED6A002-5AB6-4B23-8EC6-2A96212E6994}|Sistema.Entidad\\Sistema.Entidad.csproj|solutionrelative:sistema.entidad\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.negocios\\nlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF033B-6C8A-4B90-BC73-99C045F05BAC}|Sistema.Negocios\\Sistema.Negocios.csproj|solutionrelative:sistema.negocios\\nlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\sistema.datos\\dlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A9BECCA-296A-4F39-92A0-B4BD6AC0E88A}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\dlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NVentas.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NVentas.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NVentas.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NVentas.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NVentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:03:57.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmMostrarArticulosV.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulosV.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmMostrarArticulosV.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulosV.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmMostrarArticulosV.cs",
+              "ViewState": "AgIAAC8AAAAAjJmZmZnZvzoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:00:03.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmMostrarArticulosV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulosV.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmMostrarArticulosV.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulosV.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmMostrarArticulosV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:59:00.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DVentas.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DVentas.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DVentas.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DVentas.cs",
+              "RelativeToolTip": "Sistema.Datos\\DVentas.cs",
+              "ViewState": "AgIAADMAAAAAGgAAAAD8v2IAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T21:28:51.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Ventas.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidad\\Ventas.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Ventas.cs",
+              "RelativeToolTip": "Sistema.Entidad\\Ventas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T21:27:48.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmVistaClientes.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmVistaClientes.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVistaClientes.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmVistaClientes.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVistaClientes.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAewJsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T21:05:11.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmVistaClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmVistaClientes.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVistaClientes.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmVistaClientes.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVistaClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T21:01:26.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmVentas.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVentas.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmVentas.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVentas.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAqwAsBAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:45:26.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmVentas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmVentas.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVentas.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmVentas.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVentas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:49:08.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMostrarArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulos.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmMostrarArticulos.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulos.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmMostrarArticulos.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:03:50.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMostrarArticulos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulos.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmMostrarArticulos.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmMostrarArticulos.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmMostrarArticulos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:53:32.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Variables.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\Variables.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Variables.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\Variables.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\Variables.cs",
+              "ViewState": "AgIAAAkAAADAmZmZmZkNwBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:38:03.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmVistaProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmVistaProveedores.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVistaProveedores.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmVistaProveedores.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVistaProveedores.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAawJ0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:09:56.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmVistaProveedores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmVistaProveedores.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmVistaProveedores.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmVistaProveedores.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmVistaProveedores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:04:54.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmIngresos.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmIngresos.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmIngresos.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmIngresos.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmIngresos.cs",
+              "ViewState": "AgIAACoBAAAAcmZmZmYkwCsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:47:40.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmIngresos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmIngresos.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmIngresos.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmIngresos.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmIngresos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:13:09.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NIngreso.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NIngreso.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NIngreso.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NIngreso.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:10:06.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DIngreso.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DIngreso.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DIngreso.cs",
+              "RelativeToolTip": "Sistema.Datos\\DIngreso.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAJEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:08:57.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Ingresos.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Ingresos.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidad\\Ingresos.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Ingresos.cs",
+              "RelativeToolTip": "Sistema.Entidad\\Ingresos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:05:46.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmClientes.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmClientes.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:23:29.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Frmproveedores.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\Frmproveedores.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Frmproveedores.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\Frmproveedores.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\Frmproveedores.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAAAkBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:53:03.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FrmClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmClientes.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:09:34.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Frmproveedores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\Frmproveedores.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Frmproveedores.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\Frmproveedores.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\Frmproveedores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:08:38.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NPersona.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NPersona.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NPersona.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NPersona.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NPersona.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA3wI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:46:38.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DPersona.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DPersona.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DPersona.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DPersona.cs",
+              "RelativeToolTip": "Sistema.Datos\\DPersona.cs",
+              "ViewState": "AgIAAE8BAAAAAAAAAAAAAEkBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:15:06.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Persona.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidad\\Persona.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Persona.cs",
+              "RelativeToolTip": "Sistema.Entidad\\Persona.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:29:39.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DUsuario.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DUsuario.cs",
+              "RelativeToolTip": "Sistema.Datos\\DUsuario.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAIcBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:17:54.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidad\\Usuario.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Usuario.cs",
+              "RelativeToolTip": "Sistema.Entidad\\Usuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:17:26.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmLogin.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmLogin.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:02:09.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:53:24.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "NLogin.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NLogin.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NLogin.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NLogin.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:50:25.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DLogin.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DLogin.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DLogin.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DLogin.cs",
+              "RelativeToolTip": "Sistema.Datos\\DLogin.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:46:59.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmUsuario.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmUsuario.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:48:00.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmUsuario.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmUsuario.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmUsuario.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAnwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:03:44.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NUsuario.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NUsuario.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NUsuario.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:18:06.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmRol.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmRol.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmRol.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmRol.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmRol.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T23:57:15.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmRol.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmRol.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmRol.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmRol.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmRol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T23:50:07.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NRol.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NRol.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NRol.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NRol.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T23:46:47.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DRol.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DRol.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DRol.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DRol.cs",
+              "RelativeToolTip": "Sistema.Datos\\DRol.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T23:45:08.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmArticulos.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmArticulos.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmArticulos.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmArticulos.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAAAJEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:50:36.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmPrincipal.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAiwOIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:44:12.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmPrincipal.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:34:10.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NArticulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NArticulo.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NArticulo.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NArticulo.cs",
+              "ViewState": "AgIAACQAAADAOTMzMzMnwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:00:20.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Categoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidad\\Categoria.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Categoria.cs",
+              "RelativeToolTip": "Sistema.Entidad\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:11:26.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DArticulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DArticulo.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DArticulo.cs",
+              "RelativeToolTip": "Sistema.Datos\\DArticulo.cs",
+              "ViewState": "AgIAAGUAAAAAamZmZmYkwG8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:36:25.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Articulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Entidad\\Articulo.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Entidad\\Articulo.cs",
+              "RelativeToolTip": "Sistema.Entidad\\Articulo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:22:58.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\Program.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:55:47.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmArticulos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmArticulos.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmArticulos.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmArticulos.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmArticulos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:06:43.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmCategorias.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmCategorias.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmCategorias.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmCategorias.cs",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAAAIsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:49:21.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmCategorias.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmCategorias.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FrmCategorias.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Presentacion\\FrmCategorias.cs [Design]",
+              "RelativeToolTip": "Sistema.Presentacion\\FrmCategorias.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:25:44.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NCategoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocios\\NCategoria.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Negocios\\NCategoria.cs",
+              "RelativeToolTip": "Sistema.Negocios\\NCategoria.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:01:42.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DCategoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\DCategoria.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\DCategoria.cs",
+              "RelativeToolTip": "Sistema.Datos\\DCategoria.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAAAFsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:14:22.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\donyc\\Desktop\\Doris Practicando C#\\Introduccion a C#\\Sistema\\Sistema.Datos\\Conexion.cs",
+              "RelativeToolTip": "Sistema.Datos\\Conexion.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:46:21.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
